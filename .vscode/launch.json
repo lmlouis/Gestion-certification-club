@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GestionCertificationsApplication<Gestion-certifications>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dev.lmlouis.Gestioncertifications.GestionCertificationsApplication",
+            "projectName": "Gestion-certifications",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
